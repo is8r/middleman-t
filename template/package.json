@@ -1,0 +1,17 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "oreore middleman template",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "spuit": "0.0.2"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : ""
+  }
+}
